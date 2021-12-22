@@ -1,4 +1,4 @@
-package InformationExpertxxxxCreator;
+package InformationExpert;
 
 public class Marketing {
     private String nombreDeCampania;

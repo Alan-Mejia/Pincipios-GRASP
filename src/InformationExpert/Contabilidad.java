@@ -1,4 +1,4 @@
-package InformationExpertxxxxCreator;
+package InformationExpert;
 
 public class Contabilidad {
     private Finanzas finanzas;

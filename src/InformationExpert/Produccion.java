@@ -1,4 +1,4 @@
-package InformationExpertxxxxCreator;
+package InformationExpert;
 
 public class Produccion {
     private int precioUnidad;
